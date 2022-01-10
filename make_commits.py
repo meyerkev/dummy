@@ -21,7 +21,7 @@ messages=[
 	"fuck",
 	"wip",
 	"bump version",
-	"updates"	
+	"updates"
 ]
 
 # I couldn't get the bash for loop to run in the github action, so... here we are.
